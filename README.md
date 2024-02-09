@@ -44,4 +44,3 @@ Use Octopus Energy's Flux Tariff to automate my Solis inverter battery charging.
 - [x] Write Google Apps Script for converting emails to calendar events.
 - [ ] Implement Home Assistant automations for charging control.
 - [ ] Test the system with actual free electricity periods.
-- [ ] Document the setup process for community use.
