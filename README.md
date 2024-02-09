@@ -32,7 +32,7 @@ Use Octopus Energy's Flux Tariff to automate my Solis inverter battery charging.
 2. **Email to Calendar Automation**:
     - Use Google Apps Script to parse incoming emails from Octopus Energy about free electricity periods.
     - Create a Google Apps Script that scans a Gmail inbox for emails from Octopus Energy containing notifications about free electricity periods.
-    - The script should extract the relevant information (date and time of the free periods) and automatically create events in your dedicated Home Assistant calendar for these periods.
+    - The script should extract the relevant information (date and time of the free periods) and automatically create events in your calendar for these periods.
     see [This page](Google_App_Scripts/README.md) for setting up Google App Scripts
 
 3. **Home Assistant Automations**:
