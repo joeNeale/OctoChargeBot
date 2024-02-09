@@ -40,8 +40,8 @@ Use Octopus Energy's Flux Tariff to automate my Solis inverter battery charging.
 
 ## ToDo List
 
-- [ ] Set up iCloud rule to forward emails with specific subjects to Gmail.
-- [ ] Write Google Apps Script for converting emails to calendar events.
+- [x] Set up iCloud rule to forward emails with specific subjects to Gmail.
+- [x] Write Google Apps Script for converting emails to calendar events.
 - [ ] Implement Home Assistant automations for charging control.
 - [ ] Test the system with actual free electricity periods.
 - [ ] Document the setup process for community use.
